@@ -1,0 +1,7 @@
+# Python 3.10
+numpy
+pandas
+scipy
+statsmodels==0.14.6
+matplotlib      # Figure A1 (IRF plots)
+openpyxl        # read_excel for the search-volume workbook
